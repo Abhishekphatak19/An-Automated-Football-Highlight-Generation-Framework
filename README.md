@@ -74,3 +74,17 @@ Input Video → Preprocessing → Feature Extraction → Scoring → Highlight G
 ---
 
 
+## 👩‍💻 Authors
+
+* *Saniya Carvalho*
+* *Abhishek Phatak
+
+---
+
+📧 Contact
+
+For any queries or suggestions, feel free to connect!
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
