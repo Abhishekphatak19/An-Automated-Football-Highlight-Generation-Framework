@@ -73,4 +73,4 @@ Input Video → Preprocessing → Feature Extraction → Scoring → Highlight G
 
 ---
 
-## 📂 Project Structure
+
